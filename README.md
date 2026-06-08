@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mpdwyer2367
-- 👀 I’m interested in AI Business Automation
+- 👀 I’m interested in Network Security Visibility Test & Measurement & AI
 - 💞️ I’m looking to collaborate
 - 📫 mpdwyer2367@gmail.com
 
